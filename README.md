@@ -1,0 +1,2 @@
+# NSTU_info_2017_upadte_my_project
+This is my frist project shownig platform.
